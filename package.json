@@ -1,0 +1,11 @@
+{
+  "name": "lab7-ci",
+  "version": "1.0.0",
+  "description": "Laboratory work 7 - Continuous Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "ISC",
+  "type": "commonjs"
+}
